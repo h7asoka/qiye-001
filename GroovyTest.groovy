@@ -1,7 +1,7 @@
 package com.jizhang.test.first
 
 /**
- * Created by HW on 2016/10/30.
+ * Created by seven-ye on 2016/10/30.
  */
 class GroovyTest {
     def static str = "hello groovy!";
